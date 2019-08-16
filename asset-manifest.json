@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/udemy-songs/static/js/main.63eab2e0.chunk.js",
+    "main.js.map": "/udemy-songs/static/js/main.63eab2e0.chunk.js.map",
+    "runtime~main.js": "/udemy-songs/static/js/runtime~main.c4e762d9.js",
+    "runtime~main.js.map": "/udemy-songs/static/js/runtime~main.c4e762d9.js.map",
+    "static/js/2.54769ba5.chunk.js": "/udemy-songs/static/js/2.54769ba5.chunk.js",
+    "static/js/2.54769ba5.chunk.js.map": "/udemy-songs/static/js/2.54769ba5.chunk.js.map",
+    "index.html": "/udemy-songs/index.html",
+    "precache-manifest.43f13a11f23d435151cf15f6c34328d4.js": "/udemy-songs/precache-manifest.43f13a11f23d435151cf15f6c34328d4.js",
+    "service-worker.js": "/udemy-songs/service-worker.js"
+  }
+}
